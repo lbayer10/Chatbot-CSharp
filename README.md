@@ -13,7 +13,7 @@ This repository contains a simple C# chatbot powered by OpenAI's ChatGPT. The ch
 
 ## Code Explanation
 
-For a detailed step-by-step guide on how this code works and how to create a ChatGPT chatbot in C#, please refer to the following article: [Creating a Chatbot with ChatGPT and C#]([https://www.bytehide.com/blog/chatbot-chatgpt-csharp](https://medium.com/@lbayer10/building-a-c-chatbot-with-chatgpt-8f2056f90b10))
+For a detailed step-by-step guide on how this code works and how to create a ChatGPT chatbot in C#, please refer to the following article: [Building a Chatbot with ChatGPT and C#]([https://medium.com/@lbayer10/building-a-c-chatbot-with-chatgpt-8f2056f90b10])
 
 ## Features
 
